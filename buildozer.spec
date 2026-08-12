@@ -5,7 +5,7 @@ package.domain = org.nitish
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,ttf
 version = 1.0
-requirements = python3,kivy==2.2.1,kivymd==1.1.1,pyjnius,android,sqlite3
+requirements = python3==3.11.4,kivy==2.2.1,kivymd==1.1.1,pyjnius,android,sqlite3
 orientation = portrait
 fullscreen = 0
 android.permissions = READ_SMS,RECEIVE_SMS
